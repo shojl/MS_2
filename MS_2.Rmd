@@ -1,0 +1,18 @@
+---
+title: "MS_2"
+author: "Shojeh Liu"
+date: "2/19/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I wanna dig a hole and put myself in it because I didn't realize I needed to turn this in on Friday last week. ANywaysssss:
+
+Harvard Blocking Project
+This project was clearly a herculean effort. With an over 50% survey response rate from the whole population, not to mention all of the analysis and data wrangling, it makes sense that 8 people did it. At the same time, this project seems like one that many would be interested in. It's applicable to every Harvard first year's life, and thus its a pertinent subject for most people. 
+
+Harvard Dining Project
+The dining project has a similar pro with the previous project in that it addresses a topic pertinent to those of the Harvard Undergraduate Community. In addition, the data was easily accessible, as the Harvard Open Data Project had been scraping the info of HUDS website already. It seems like a con of the project would be the amount of cleaning and having to make decisions on what data to keep or get rid of to have the most interesting, accurate data. I noticed that for lunch in general, the data included cilantro as the most common dish served. It could be easily argued that cilantro doesn't really belong as a dish, but rather as an accessory to some other dishes.
